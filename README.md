@@ -3,6 +3,10 @@
 ---
 ## Members of the project
 Nicolás Reyes Cano, Samuel Ramirez Noreña y Tomás Vera Franco
+# Email adresses
+Nreyesc@eafit.edu.co
+Sramirezn1@eafit.edu.co
+tveraf@eafit.edu.co
 
 ## 🇬🇧 ENGLISH SECTION
 
@@ -324,6 +328,10 @@ All final logic, structure, and implementation decisions were made by the develo
 ---
 ## Miembros del proyecto
 Nicolás Reyes Cano, Samuel Ramirez Noreña y Tomás Vera Franco
+# Direcciones de correo electronico
+Nreyesc@eafit.edu.co
+Sramirezn1@eafit.edu.co
+tveraf@eafit.edu.co
 
 ## 🇪🇸 SECCIÓN EN ESPAÑOL
 
